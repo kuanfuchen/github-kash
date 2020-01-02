@@ -1,0 +1,81 @@
+.kaohsiung-bg {
+  background: url("/Hero.png");
+  background-position: center center;
+  background-size: cover;
+  height: 380px;
+}
+
+.kaohsiung-bg .kag-p {
+  font-size: 40px;
+}
+
+.sel-reg {
+  width: 452px;
+  margin-top: 100px;
+}
+
+.hot-region {
+  margin-top: -25px;
+  max-width: 800px;
+  border: 1px solid gray;
+  -webkit-box-shadow: 1px 1px 1px gray;
+          box-shadow: 1px 1px 1px gray;
+  height: 112px;
+  z-index: 1;
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+.hot-region p {
+  font-size: 18px;
+  font-weight: 900;
+  margin-top: 5px;
+}
+
+.hot-region .btn {
+  margin-top: -10px;
+  margin-right: 20px;
+  width: 130px;
+}
+
+.dl-dash {
+  margin-top: 50px;
+  border: 1px dashed #559AC8;
+}
+
+.regionData {
+  line-height: 0.3;
+}
+
+.region-bg {
+  height: 155px;
+  background-position: center center;
+  background-size: 100% auto;
+  position: relative;
+}
+
+.region-bg .bgPlace-text {
+  position: absolute;
+  margin-top: 117px;
+  margin-left: 22px;
+  font-size: 24px;
+}
+
+.region-bg .bgRegion-text {
+  position: absolute;
+  margin-top: 125px;
+  margin-left: 450px;
+  font-size: 16px;
+}
+
+.Regioncard p {
+  font-size: 18px;
+  line-height: 1;
+  display: block;
+}
+
+.footer {
+  height: 90px;
+  font-size: 18px;
+}
+/*# sourceMappingURL=all.css.map */

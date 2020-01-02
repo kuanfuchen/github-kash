@@ -1,0 +1,47 @@
+.bg-fat {
+    background-color: #424242;
+    border-radius: 10px;
+}
+
+.Bgresult {
+    width: 120px;
+    height: 120px;
+    background-color: #ffd366;
+    border: 3px solid #ffd366;
+    border-radius: 50%;
+    font-size: 24px;
+    font-weight: 700;
+    color: #424242;
+
+
+}
+
+.bg-input {
+    color: #ffd366;
+    font-size: 20px;
+    line-height: 1;
+
+    label {
+        margin-top: 10px;
+    }
+
+    input {
+        border: 1px solid #ffd366;
+        line-height: 1.5;
+        border-radius: 5px;
+        width: 300px;
+
+    }
+}
+
+.footer {
+    background: #ffd366;
+
+
+    img {
+        padding: 10px;
+        filter: drop-shadow(0 0 #424242);
+
+
+    }
+}
